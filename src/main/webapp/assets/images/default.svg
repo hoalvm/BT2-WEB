@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title description">
+    <title id="title">Ảnh danh mục mặc định</title>
+    <desc id="description">Biểu tượng ảnh trên nền xanh nhạt</desc>
+    <rect width="640" height="420" rx="28" fill="#eef3ff"/>
+    <rect x="163" y="92" width="314" height="236" rx="20" fill="#ffffff" stroke="#9bb3ed" stroke-width="10"/>
+    <circle cx="245" cy="167" r="31" fill="#7b9bea"/>
+    <path d="M190 296l91-96 66 65 42-43 61 74H190z" fill="#365fc5"/>
+    <text x="320" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#53627f">No image</text>
+</svg>

@@ -1,0 +1,39 @@
+# Maven
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse / STS
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime uploads and temporary files
+uploads/
+upload/
+tmp/
+temp/
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
