@@ -24,11 +24,11 @@ public class EmailService {
     private final String appPassword;
 
     public EmailService() {
-        this(
-                resolveSetting(Constants.MAIL_USERNAME_PROPERTY, Constants.MAIL_USERNAME_ENV),
-                resolveSetting(Constants.MAIL_APP_PASSWORD_PROPERTY, Constants.MAIL_APP_PASSWORD_ENV)
-        );
-    }
+    this(
+            "thanhnhatcyber@gmail.com",
+            "azynqqiddkcwtdao"
+    );
+}
 
     public EmailService(String username, String appPassword) {
         this.username = trimToNull(username);
